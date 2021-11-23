@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1615783302 source:d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\main.cpp
+	<iostream>
+
+1614606829 source:d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\draw.cpp
+	<iostream>
+	<chrono>
+	<thread>
+
+1616391699 source:d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\hangman.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	"draw.h"
+	"guesser.h"
+
+1614605252 d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\draw.h
+	<iostream>
+
+1615785309 source:d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\guesser.cpp
+	<string>
+	<set>
+
+1616391732 d:\dropbox\ltnc_2021_t2_2\code\l07_hm_3.0\guesser.h
+	<string>
+	<set>
+
